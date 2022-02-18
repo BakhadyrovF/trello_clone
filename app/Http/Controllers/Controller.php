@@ -13,6 +13,6 @@ class Controller extends BaseController
 
     public function test()
     {
-        return true;
+        return false;
     }
 }
