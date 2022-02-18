@@ -13,5 +13,5 @@ class Controller extends BaseController
 
     public function foo() {
         return null;
-    }
+
 }
